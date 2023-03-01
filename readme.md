@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 bismillah, maaf gaes ini masih belajar
 step by step for learn git
+ ini note new branch
